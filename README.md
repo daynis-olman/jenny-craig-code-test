@@ -1,7 +1,8 @@
 # jenny-craig-code-test
-We would like you to complete this test in a convention / language / framework that is the comfortable to you.
+We would like you to complete this test in a convention / language / framework that is most comfortable to you.
 
-The test started files for this test contain static HTML file, Customised Bootstrap Grid and HTML Document
+Starter files for this test contain:
+Blank JS File, HTML file, CSS File (With Customised Bootstrap Grid)
 
 The objective of this test is to use Javascript / jQuery in order to transform Hero image "banner.jpg" into a slideshow that would be playing on the loop.
 
