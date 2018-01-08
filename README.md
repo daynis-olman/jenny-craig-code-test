@@ -9,4 +9,8 @@ Please replace banner.jpg static image with below 3 images that have been prepar
 
 https://www.jennycraig.com.au/sites/default/files/q-Home-B-Hero-Slide3-Desktop-2500x732.jpg   https://www.jennycraig.com.au/sites/default/files/Home-B-Hero-Dietitians--Desktop--2500-x-733%402x.jpg   https://www.jennycraig.com.au/sites/default/files/Home-B-Hero-Mel-B--Desktop--2500-x-733%402x.jpg
 
+This test can be submitted via email, or alternatively you may choose to fork this repository and 
+email us the link. You may also fork below CodePEN which is an identical copy of the test
+https://codepen.io/nodemoton/pen/WddbLr 
+
 Thank you and good luck! 
